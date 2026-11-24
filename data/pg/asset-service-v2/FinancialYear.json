@@ -3,6 +3,16 @@
     "moduleName": "ASSETV2",
     "FinancialYear": [
       {
+        "name": "2026-27",
+        "code": "2026-27",
+        "active": true
+      },
+      {
+        "name": "2025-26",
+        "code": "2025-26",
+        "active": true
+      },
+      {
         "name": "2024-25",
         "code": "2024-25",
         "active": true
